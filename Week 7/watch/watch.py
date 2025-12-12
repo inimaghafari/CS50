@@ -1,0 +1,20 @@
+import re
+
+def main():
+
+    s = input("HTML: ")
+    video_id = parse(s)
+    
+    if video_id:
+        print(video_id)
+
+# check the HTML
+def parse(s):
+
+    if match := re.search(r'<iframe.* src="https?://(?:www\.)?youtube\.com/embed/([a-zA-Z0-9_-]+)"', s):
+        return (f"https://youtu.be/{match.group(1)}")
+
+    return None
+
+if __name__ == "__main__":
+    main()
