@@ -1,0 +1,14 @@
+[
+  {
+    "customer": "Amir",
+    "items": [
+      {
+        "name": "Street Hoodie",
+        "category": "Street",
+        "price": 70
+      }
+    ],
+    "total": 70,
+    "date": "2025-12-12 06:51"
+  }
+]

@@ -1,0 +1,6 @@
+{
+    "Classic": ["Relaxing Classical.mp3", "Jazz Vibes.mp3", "Elegant Piano.mp3"],
+    "Casual": ["Relaxing Classical.mp3", "Jazz Vibes.mp3", "Elegant Piano.mp3"],
+    "Sport": ["Energetic Pop.mp3", "Upbeat Dance.mp3", "Dance Pop.mp3"],
+    "Street": ["Cool Hip Hop Beat.mp3", "Gang Rap.mp3", "Hip Hop.mp3"]
+}

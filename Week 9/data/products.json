@@ -1,0 +1,17 @@
+[
+    {"name": "Casual Jacket", "category": "Casual", "price": 120},
+    {"name": "Casual Pants", "category": "Casual", "price": 80},
+    {"name": "Casual Shoes", "category": "Casual", "price": 90},
+    {"name": "Sport T-Shirt", "category": "Sport", "price": 50},
+    {"name": "Sport Pants", "category": "Sport", "price": 70},
+    {"name": "Sport Shoes", "category": "Sport", "price": 85},
+    {"name": "Classic Shirt", "category": "Classic", "price": 60},
+    {"name": "Classic Pants", "category": "Classic", "price": 90},
+    {"name": "Classic Shoes", "category": "Classic", "price": 110},
+    {"name": "Long Coat", "category": "Classic", "price": 150},
+    {"name": "Bag Jeans", "category": "Street", "price": 40},
+    {"name": "Street Hoodie", "category": "Street", "price": 70},
+    {"name": "Jordan Shoes", "category": "Street", "price": 200},
+    {"name": "Classic Watch", "category": "Classic", "price": 180},
+    {"name": "Smartwatch", "category": "Sport", "price": 150}
+]
